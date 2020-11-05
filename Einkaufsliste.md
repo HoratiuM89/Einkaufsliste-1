@@ -3,3 +3,4 @@ Einkaufsliste
 -Salami
 -Käse
 -TKPizza
+-Möhren

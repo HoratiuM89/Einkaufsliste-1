@@ -6,7 +6,7 @@
 * Stadt:	12345 Musterhausen
 
 ## Berufserfahrung
-* 2012-2019	Arbeit Arbeit
+* 2012-2019	Arbeitslos
 
 * 2006-2010 Ausbildung
 
