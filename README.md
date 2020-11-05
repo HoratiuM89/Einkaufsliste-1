@@ -1,5 +1,5 @@
 # Lebenslauf
-[Bild 1]: image.png
+![Alternativtext](/image.jpg "Bildtitel hier")
 ## Persönliche Daten
 * Name:		Max Mustermann
 * Adresse:	Musterstraße 1
