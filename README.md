@@ -3,7 +3,7 @@
 ## Persönliche Daten
 * Name:		Max Mustermann
 * Adresse:	Musterstraße 1
-*			12345 Musterhausen
+* Stadt:	12345 Musterhausen
 
 ## Berufserfahrung
 * 2012-2019	Arbeit Arbeit
